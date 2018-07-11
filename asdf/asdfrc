@@ -1,0 +1,14 @@
+#==============================================================================
+# title          : asdfrc
+# description    : This file contains asdf configurations
+# author         : Adi Iyengar
+# username       : aditya7iyengar
+# date           : 2017-02-01
+# version        : 0.7
+# usage		 : link/move to ~/.asdfrc
+# notes          : This adds ASDF Version manager's configuration.
+# versions       : Tmux 2.6, Asdf 0.3.0
+#==============================================================================
+
+# Allow legacy VM files like rbenv's .ruby-version
+legacy_version_file = yes
