@@ -1,0 +1,24 @@
+# Tmux resurrect sessions storage directory
+/tmux/resurrect
+
+# Tmux plugins installed
+/tmux/plugins
+
+# Vim plugins installed using vundle
+/vim/bundle
+
+# Vim swap files created for resurrect
+/vim/swap
+
+# Emacs packages
+/emacs/emacs.d/elpa
+
+# Swap files
+/emacs/emacs.d/auto-save-list
+
+# Loaded emacs config
+/emacs/emacs~
+
+# Private configs
+/private/*
+!/private/ABOUT.md
