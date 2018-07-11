@@ -1,0 +1,16 @@
+#==============================================================================
+# title          : asdf/zshrc
+# description    : This file contains asdf configurations that need to go in
+		   zshrc
+# author         : Adi Iyengar
+# username       : aditya7iyengar
+# date           : 201-07-11
+# version        : 0.7
+# usage		 : concatenate to ~/.zshrc
+# notes          : This adds ASDF Version manager's configuration to zshrc.
+# versions       : Tmux 2.6, Asdf 0.5.0
+#==============================================================================
+
+ASDF_DEFAULT_TOOL_VERSIONS_FILENAME=".tool_versions"
+ASDF_CONFIG_FILE="~/.asdfrc"
+ASDF_DIR="~/.asdf"
